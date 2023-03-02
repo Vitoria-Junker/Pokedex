@@ -40,6 +40,6 @@ Para rodar o projeto em sua máquina, siga os passos abaixo:
 4. Inicie a aplicação executando o comando npm start
 5. Abra seu navegador e acesse a URL http://localhost:3000
 
-##Conclusão
+## Conclusão
 
 Essa aplicação da Pokédex foi desenvolvida utilizando diversas ferramentas do React e da PokeAPI para fornecer informações detalhadas sobre diferentes tipos de pokemons. Espero que essa aplicação possa ser útil para os fãs de pokemon e para aqueles que desejam aprender mais sobre essa franquia tão popular.
