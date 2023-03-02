@@ -64,6 +64,8 @@ const Title = styled.h2`
   color:#efe6e6;
   font-size: 40px;
   text-shadow: 1px -1px 2px rgba(52,42,61,0.35);
+  flex-wrap:wrap;
+  text-align:center;
 `
 
 export default Home

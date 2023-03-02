@@ -42,11 +42,13 @@ const Nav = styled.nav`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap:wrap;
   padding: 1rem 2rem;
 `
 const Form = styled.form`
   display: flex;
   gap:.5rem;
+  padding:3rem;
 `
 const Input = styled.input`
   padding: 0.2rem 0.8rem;
