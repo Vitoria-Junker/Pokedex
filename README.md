@@ -1,8 +1,8 @@
-#Pokédex 
+###Pokédex 
 
 Essa aplicação consiste em uma Pokédex que utiliza a PokeAPI para exibir informações sobre os pokemons. O objetivo é permitir que os usuários visualizem informações detalhadas sobre os diferentes tipos de pokemons, além de poder buscar um pokemon específico e mudar o tema da aplicação entre light e dark.
 
-##Funcionalidades
+###Funcionalidades
 
 * Exibição de 10 cards de pokemon por página inicialmente
 * Navbar com busca por nome de pokemon
@@ -11,7 +11,7 @@ Essa aplicação consiste em uma Pokédex que utiliza a PokeAPI para exibir info
 * Botão para voltar à página inicial 
 * Botão para mudar o tema da aplicação entre light e dark em todas as páginas
 
-##Ferramentas Utilizadas
+###Ferramentas Utilizadas
 
 As principais ferramentas utilizadas no desenvolvimento da aplicação foram:
 
