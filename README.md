@@ -1,8 +1,8 @@
-###Pokédex 
+# Pokédex 
 
 Essa aplicação consiste em uma Pokédex que utiliza a PokeAPI para exibir informações sobre os pokemons. O objetivo é permitir que os usuários visualizem informações detalhadas sobre os diferentes tipos de pokemons, além de poder buscar um pokemon específico e mudar o tema da aplicação entre light e dark.
 
-###Funcionalidades
+## Funcionalidades
 
 * Exibição de 10 cards de pokemon por página inicialmente
 * Navbar com busca por nome de pokemon
@@ -11,7 +11,7 @@ Essa aplicação consiste em uma Pokédex que utiliza a PokeAPI para exibir info
 * Botão para voltar à página inicial 
 * Botão para mudar o tema da aplicação entre light e dark em todas as páginas
 
-###Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 As principais ferramentas utilizadas no desenvolvimento da aplicação foram:
 
@@ -40,6 +40,6 @@ Para rodar o projeto em sua máquina, siga os passos abaixo:
 4. Inicie a aplicação executando o comando npm start
 5. Abra seu navegador e acesse a URL http://localhost:3000
 
-###Conclusão
+##Conclusão
 
 Essa aplicação da Pokédex foi desenvolvida utilizando diversas ferramentas do React e da PokeAPI para fornecer informações detalhadas sobre diferentes tipos de pokemons. Espero que essa aplicação possa ser útil para os fãs de pokemon e para aqueles que desejam aprender mais sobre essa franquia tão popular.
