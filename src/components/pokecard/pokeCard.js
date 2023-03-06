@@ -17,7 +17,7 @@ const Card = ({name}) => {
     useEffect(() => {
         const pokeURL = `${variables.apiURL}/${name}`
         getPokemon(pokeURL)
-     }, [])
+     })
 
     const id = poke?.id
     let imageUrl = poke?.sprites?.other?.dream_world?.front_default

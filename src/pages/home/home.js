@@ -9,7 +9,7 @@ import styled from "styled-components"
 const Home = () => {
 
     const [offset, setOffset] = useState(0);
-    const [limit, setLimit] = useState(10);
+    const [limit] = useState(10);
     const [pokemons, setPokemons] = useState([])
     //const [loadMore, setLoadMore] =
 
