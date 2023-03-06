@@ -19,6 +19,7 @@ As principais ferramentas utilizadas no desenvolvimento da aplicação foram:
 * Styled Components: uma biblioteca para estilização de componentes React
 * Context API: uma API do React para gerenciamento de estado de forma global na aplicação
 * PokeAPI: uma API que fornece informações sobre os pokemons
+* Firebase: utilizado apenas para o deploy
 
 A escolha dessas ferramentas se deu pelo fato de que elas são muito populares na comunidade React e são altamente eficientes para o desenvolvimento de aplicações como a Pokédex.
 
@@ -44,3 +45,4 @@ Para rodar o projeto em sua máquina, siga os passos abaixo:
 
 Essa aplicação da Pokédex foi desenvolvida utilizando diversas ferramentas do React e da PokeAPI para fornecer informações detalhadas sobre diferentes tipos de pokemons. Espero que essa aplicação possa ser útil para os fãs de pokemon e para aqueles que desejam aprender mais sobre essa franquia tão popular.
 ## Tecnologias: HTML, CSS, JS, React Js
+ ##Deploy: https://pokedex-23.web.app/
